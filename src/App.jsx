@@ -1,6 +1,6 @@
 import Navbar from "./components/Navbar/Navbar";
 import Hero from "./components/Hero/Hero";
-import CareerOpportunities from "./components/CareerOpportunities/Careeropportunities";
+import CareerOpportunities from "./components/CareerOpportunities/CareerOpportunities";
 import WhyBuiltRight from "./components/WhyBuiltRight/WhyBuiltRight";
 import Curriculum from "./components/Curriculum/Curriculum";
 import WhoShouldAttend from "./components/WhoShouldAttend/WhoShouldAttend";
