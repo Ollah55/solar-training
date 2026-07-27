@@ -1,4 +1,4 @@
-import "./WhatsAppFloat.css";
+import "./WhatsappFloat.css";
 import { FaWhatsapp } from "react-icons/fa";
 
 export default function WhatsAppFloat() {
