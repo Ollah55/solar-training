@@ -1,0 +1,234 @@
+/* ===================================
+   WHY BUILTRIGHT SOLAR ACADEMY
+=================================== */
+
+.academy-benefits{
+    padding:120px 0;
+    background:#ffffff;
+    position:relative;
+}
+
+.academy-benefits .container{
+    max-width:1200px;
+    margin:auto;
+    padding:0 20px;
+}
+
+.academy-benefits .section-tag{
+    display:inline-block;
+    background:#eef9f2;
+    color:red;
+    padding:10px 24px;
+    border-radius:50px;
+    font-size:.85rem;
+    font-weight:700;
+    letter-spacing:2px;
+    text-transform:uppercase;
+    margin-bottom:18px;
+}
+
+.academy-benefits h2{
+    font-size:3rem;
+    color:#183626;
+    margin-bottom:20px;
+    line-height:1.2;
+}
+
+.academy-benefits h2 span{
+    color:#16994d;
+}
+
+.academy-benefits .section-intro{
+    max-width:760px;
+    color:#666;
+    line-height:1.9;
+    font-size:1.08rem;
+    margin-bottom:70px;
+}
+
+.benefits-grid{
+    display:grid;
+    grid-template-columns:repeat(3,1fr);
+    gap:30px;
+}
+
+.benefit-card{
+    background:#fff;
+    border-radius:24px;
+    padding:40px 35px;
+    border:1px solid #edf1ee;
+    transition:.35s ease;
+    position:relative;
+    overflow:hidden;
+    box-shadow:0 12px 30px rgba(0,0,0,.04);
+}
+
+.benefit-card::before{
+    content:"";
+    position:absolute;
+    inset:0;
+    background:linear-gradient(
+        135deg,
+        rgba(22,153,77,.06),
+        transparent
+    );
+    opacity:0;
+    transition:.35s;
+}
+
+.benefit-card:hover::before{
+    opacity:1;
+}
+
+.benefit-card:hover{
+    transform:translateY(-12px);
+    box-shadow:0 25px 55px rgba(0,0,0,.10);
+}
+
+.benefit-icon{
+    width:78px;
+    height:78px;
+    border-radius:22px;
+    background:#16994d;
+    display:flex;
+    justify-content:center;
+    align-items:center;
+    color:#fff;
+    font-size:2rem;
+    margin-bottom:25px;
+    transition:.35s;
+}
+
+.benefit-card:hover .benefit-icon{
+    background:#7b1022;
+    transform:rotate(-8deg) scale(1.08);
+}
+
+.benefit-card h3{
+    font-size:1.4rem;
+    color:#183626;
+    margin-bottom:15px;
+}
+
+.benefit-card p{
+    color:#666;
+    line-height:1.8;
+}
+
+/* Bottom Banner */
+
+.academy-highlight{
+    margin-top:80px;
+    background:linear-gradient(
+        135deg,
+        #16994d,
+        #0d6e38
+    );
+    border-radius:28px;
+    padding:50px;
+    display:flex;
+    justify-content:space-between;
+    align-items:center;
+    gap:40px;
+    color:#fff;
+    overflow:hidden;
+    position:relative;
+}
+
+.academy-highlight::after{
+    content:"";
+    position:absolute;
+    width:350px;
+    height:350px;
+    background:rgba(255,255,255,.08);
+    border-radius:50%;
+    right:-120px;
+    top:-120px;
+}
+
+.highlight-text{
+    position:relative;
+    z-index:2;
+}
+
+.highlight-text h3{
+    font-size:2rem;
+    margin-bottom:15px;
+}
+
+.highlight-text p{
+    max-width:650px;
+    line-height:1.9;
+    opacity:.92;
+}
+
+.highlight-btn{
+    position:relative;
+    z-index:2;
+}
+
+.highlight-btn a{
+    background:#fff;
+    color:#16994d;
+    padding:16px 34px;
+    border-radius:50px;
+    text-decoration:none;
+    font-weight:700;
+    transition:.35s;
+}
+
+.highlight-btn a:hover{
+    background:#7b1022;
+    color:#fff;
+}
+
+/* Tablet */
+
+@media(max-width:992px){
+
+.benefits-grid{
+grid-template-columns:repeat(2,1fr);
+}
+
+.academy-highlight{
+flex-direction:column;
+text-align:center;
+}
+
+}
+
+/* Mobile */
+
+@media(max-width:768px){
+
+.academy-benefits{
+padding:80px 0;
+}
+
+.academy-benefits h2{
+font-size:2.2rem;
+}
+
+.benefits-grid{
+grid-template-columns:1fr;
+}
+
+.benefit-card{
+padding:30px;
+}
+
+.benefit-icon{
+width:65px;
+height:65px;
+font-size:1.6rem;
+}
+
+.academy-highlight{
+padding:35px 25px;
+}
+
+.highlight-text h3{
+font-size:1.6rem;
+}
+
+}
