@@ -16,7 +16,7 @@
     display:inline-block;
     padding:10px 18px;
     background:#16994d15;
-    color: red;
+    color: #B32127;
     font-weight:700;
     border-radius:50px;
     letter-spacing:2px;
@@ -32,7 +32,7 @@
 }
 
 .who-section h2 span{
-    color:#16994d;
+    color:#159284;
 }
 
 .section-intro{

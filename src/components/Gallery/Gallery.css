@@ -20,7 +20,7 @@
     padding:10px 24px;
     border-radius:50px;
     background:#eaf8ef;
-    color:#16994d;
+    color: #159284;
     font-size:.85rem;
     font-weight:700;
     letter-spacing:2px;
@@ -36,7 +36,7 @@
 }
 
 .gallery h2 span{
-    color:#16994d;
+    color:#159284;
 }
 
 .gallery .section-intro{
@@ -154,8 +154,8 @@
     border-radius:30px;
     background:linear-gradient(
         135deg,
-        #16994d,
-        #0d6e38
+        #159284,
+        #159284
     );
 
     padding:55px;
@@ -189,7 +189,7 @@
     padding:18px 36px;
     border-radius:50px;
     background:#fff;
-    color:#16994d;
+    color:#159284;
     text-decoration:none;
     font-weight:700;
     transition:.35s;
@@ -198,7 +198,7 @@
 
 .gallery-banner a:hover{
 
-    background:#7b1022;
+    background:#B32127;
     color:#fff;
 
 }

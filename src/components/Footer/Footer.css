@@ -88,14 +88,14 @@
 }
 
 .footer-social a:hover{
-    background:#16994d;
+    background:#159284;
     transform:translateY(-5px);
 }
 
 .footer-btn{
     display:inline-block;
     margin-top:20px;
-    background:#16994d;
+    background:#159284;
     color:#fff !important;
     padding:16px 34px;
     border-radius:50px;
@@ -104,7 +104,7 @@
 }
 
 .footer-btn:hover{
-    background:#7b1022;
+    background:#B32127;
     transform:translateY(-5px);
 }
 

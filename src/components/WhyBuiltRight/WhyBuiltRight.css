@@ -17,7 +17,7 @@
 .academy-benefits .section-tag{
     display:inline-block;
     background:#eef9f2;
-    color:red;
+    color: #B32127;
     padding:10px 24px;
     border-radius:50px;
     font-size:.85rem;
@@ -35,7 +35,7 @@
 }
 
 .academy-benefits h2 span{
-    color:#16994d;
+    color:#159284;
 }
 
 .academy-benefits .section-intro{
@@ -89,7 +89,7 @@
     width:78px;
     height:78px;
     border-radius:22px;
-    background:#16994d;
+    background:#159284;
     display:flex;
     justify-content:center;
     align-items:center;
@@ -100,7 +100,7 @@
 }
 
 .benefit-card:hover .benefit-icon{
-    background:#7b1022;
+    background:#B32127;
     transform:rotate(-8deg) scale(1.08);
 }
 
@@ -121,8 +121,8 @@
     margin-top:80px;
     background:linear-gradient(
         135deg,
-        #16994d,
-        #0d6e38
+        #159284,
+        #159284
     );
     border-radius:28px;
     padding:50px;
@@ -169,7 +169,7 @@
 
 .highlight-btn a{
     background:#fff;
-    color:#16994d;
+    color:#159284;
     padding:16px 34px;
     border-radius:50px;
     text-decoration:none;
@@ -178,7 +178,7 @@
 }
 
 .highlight-btn a:hover{
-    background:#7b1022;
+    background:#B32127;
     color:#fff;
 }
 

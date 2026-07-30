@@ -24,7 +24,7 @@
 }
 
 .certification-left h2 span{
-    color:#16994d;
+    color:#159284;
 }
 
 .certification-left p{
@@ -57,13 +57,13 @@
 
 .cert-item svg{
     font-size:2rem;
-    color:#16994d;
+    color:#159284;
     margin-top:5px;
     transition:.35s;
 }
 
 .cert-item:hover svg{
-    color:#7b1022;
+    color:#B32127;
     transform:rotate(-10deg);
 }
 
@@ -80,7 +80,7 @@
 .certificate-btn{
     display:inline-block;
     margin-top:15px;
-    background:#16994d;
+    background:#159284;
     color:#fff;
     text-decoration:none;
     padding:16px 36px;
@@ -90,7 +90,7 @@
 }
 
 .certificate-btn:hover{
-    background:#7b1022;
+    background:#B32127;
     transform:translateY(-5px);
 }
 

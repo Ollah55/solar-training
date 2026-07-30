@@ -16,7 +16,7 @@
 .faq .section-tag{
     display:inline-block;
     background:#eaf8ef;
-    color: red;
+    color: #B32127;
     padding:10px 22px;
     border-radius:40px;
     font-size:.85rem;
@@ -33,7 +33,7 @@
 }
 
 .faq h2 span{
-    color:#16994d;
+    color:#159284;
 }
 
 .faq .section-intro{
@@ -58,7 +58,7 @@
 }
 
 .faq-item.active{
-    border-color:#16994d;
+    border-color:#159284;
 }
 
 .faq-question{
@@ -76,7 +76,7 @@
 }
 
 .faq-question svg{
-    color:#16994d;
+    color:#159284;
     transition:.3s;
 }
 

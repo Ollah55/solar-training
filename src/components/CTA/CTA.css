@@ -10,9 +10,9 @@
 
     background:linear-gradient(
         135deg,
-        #0d6e38,
-        #16994d,
-        #1ca85b
+        #159284,
+        #159284,
+        #159284
     );
 
 }
@@ -71,7 +71,7 @@
 
     text-transform:uppercase;
 
-    color: red;
+    color: #B32127;
 
 }
 
@@ -174,7 +174,7 @@
 .cta-primary{
 
     background:#fff;
-    color:#16994d;
+    color:#159284;
 
 }
 .cta-primary svg{
@@ -185,7 +185,7 @@ font-size: 1.2rem;
 
     transform:translateY(-6px);
 
-    background:#7b1022;
+    background:#B32127;
     color:#fff;
 
 }
@@ -200,7 +200,7 @@ font-size: 1.2rem;
 .cta-secondary:hover{
 
     background:#fff;
-    color:#16994d;
+    color:#159284;
 
 }
 

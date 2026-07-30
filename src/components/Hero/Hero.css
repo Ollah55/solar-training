@@ -58,7 +58,7 @@
     background:rgba(255,255,255,.12);
     backdrop-filter:blur(15px);
     border:1px solid rgba(255,255,255,.15);
-    color: red;
+    color: #B32127;
     letter-spacing:2px;
     text-transform:uppercase;
     font-size:.82rem;
@@ -74,7 +74,7 @@
 
 .hero h1 span{
     display:block;
-    color:#39d66d;
+    color:#159284;
 }
 
 .hero p{
@@ -103,13 +103,13 @@
 }
 
 .btn-primary{
-    background:#16994d;
+    background:#159284;
     color:#fff;
     box-shadow:0 18px 40px rgba(0,0,0,.3);
 }
 
 .btn-primary:hover{
-    background:#11753c;
+    background:#159284;
     transform:translateY(-5px);
 }
 
@@ -121,7 +121,7 @@
 
 .btn-outline:hover{
     background:#fff;
-    color:#16994d;
+    color:#159284;
     transform:translateY(-5px);
 }
 
@@ -154,7 +154,7 @@
 }
 
 .feature h3{
-    color:#16994d;
+    color:#159284;
     font-size:2rem;
     margin-bottom:10px;
 }

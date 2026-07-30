@@ -48,13 +48,13 @@ color: white;
 
 text-decoration:none;
 font-weight:600;
-color: red;
+color: #B32127;
 
 }
 
 .nav-links a:hover{
 
-color:#16994d;
+color:#159284;
 
 }
 
@@ -76,7 +76,7 @@ padding:15px 28px;
 
 border-radius:50px;
 
-background: red;
+background: #B32127;
 color:#fff;
 
 text-decoration:none;
@@ -88,7 +88,7 @@ transition:.35s;
 
 .nav-btn:hover{
 
-background:#7b1022;
+background:#B32127;
 
 }
 

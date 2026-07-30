@@ -20,7 +20,7 @@
     top:0;
     bottom:0;
     width:4px;
-    background:#16994d;
+    background:#159284;
     border-radius:50px;
 
 }
@@ -50,7 +50,7 @@
     width:30px;
     height:30px;
 
-    background:#7b1022;
+    background:#B32127;
     color:#fff;
 
     border-radius:50%;
@@ -73,8 +73,8 @@
 
     background:linear-gradient(
         135deg,
-        #16994d,
-        #0d6e38
+        #159284,
+        #159284
     );
 
     color:#fff;
@@ -95,8 +95,8 @@
 
     background:linear-gradient(
         135deg,
-        #7b1022,
-        #9f1730
+        #B32127,
+        #B32127
     );
 
     transform:scale(1.08) rotate(-8deg);
@@ -166,9 +166,9 @@
 
     background:linear-gradient(
         135deg,
-        #0d8f48 0%,
-        #16994d 45%,
-        #0b6d37 100%
+        #159284 0%,
+        #159284 45%,
+        #159284 100%
     );
 
     color:#fff;
@@ -257,7 +257,7 @@
 
     background:#fff;
 
-    color:#16994d;
+    color:#159284;
 
     border-radius:60px;
 
@@ -275,7 +275,7 @@
 
 .journey-cta a:hover{
 
-    background:#7b1022;
+    background:#B32127;
 
     color:#fff;
 
@@ -318,7 +318,7 @@
 
 .achievement h2{
 
-    color:#16994d;
+    color:#159284;
 
     font-size:2rem;
 
