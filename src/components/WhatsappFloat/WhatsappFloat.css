@@ -63,7 +63,7 @@ opacity:0;
 
     gap:14px;
 
-    background: red;
+    background: #B32127;
 
     color:#fff;
 
@@ -81,7 +81,7 @@ opacity:0;
 
     transform:translateY(-6px);
 
-    background: red;
+    background: #B32127;
 
 }
 
@@ -96,7 +96,7 @@ opacity:0;
 
     background:#fff;
 
-    color: red;
+    color: #B32127;
 
     display:flex;
     justify-content:center;
