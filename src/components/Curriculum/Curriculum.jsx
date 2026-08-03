@@ -134,7 +134,7 @@ export default function Curriculum() {
         <div className="curriculum-finish">
 
     <h3>
-        Ready to Begin Your Solar Journey?
+        Ready to Start your Career in Solar Installation?
     </h3>
 
     <p>
